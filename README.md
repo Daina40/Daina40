@@ -122,17 +122,23 @@ My goal is to combine software development experience with infrastructure automa
 ---
 
 
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
 
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Daina40&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
-    alt="GitHub Trophies"
-    width="100%"
-  />
+  <a href="https://github.com/Daina40?tab=achievements">
+    <img src="https://img.shields.io/badge/GitHub-View%20My%20Achievements-181717?style=for-the-badge&logo=github" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/Daina40?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-2ea44f?style=for-the-badge&logo=github" />
+  </a>
 
 </div>
+
 
 
 ---
